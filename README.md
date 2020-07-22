@@ -12,7 +12,7 @@ This lib has a good documentation explaning all the components and how to create
 
 If you would like to have something very professional, equal to charts used by Investing app, create a webview and show a chart by Tradingview.
 
-In this project I made both examples and you can try both just chaging the file that will be rendered:
+In this project I made both examples and you can try both just chaging the file that will be rendered:</br>
 1 - reactChart.js or
 2 - index.js
 

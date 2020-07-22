@@ -28,5 +28,5 @@ If you want to check the webview component, go to index.js (at the root of the p
 <img src="./src/assets/webview.png" width="100%" title="webview chart">
 
 
-<strong>Using chart from victory-native:</strong>
+<strong>Using chart from victory-native:</strong></br>
 <img src="./src/assets/victory-native.png" width="200px" height="400px" title="victory-native chart">

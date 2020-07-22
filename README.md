@@ -16,7 +16,7 @@ In this project I made both examples and you can try both just chaging the file 
 1 - reactChart.js or</br>
 2 - index.js
 
-The index.js is the webview. The source for it is a simple html page that I deloyed. It contains only the chart by Tradingview.
+The index.js is the webview. The source for it is a simple html page that I deployed. It contains only the chart by Tradingview.
 
 This html code is located under src/views/chart.html. You can deploy it using Netlify (takes 1 min the process) in order to use it in your webview component.
 

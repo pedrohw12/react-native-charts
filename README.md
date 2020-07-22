@@ -29,4 +29,4 @@ If you want to check the webview component, go to index.js (at the root of the p
 
 
 <strong>Using chart from victory-native:</strong>
-<img src="./src/assets/victory-native.png" width="100%" height="400px" title="victory-native chart">
+<img src="./src/assets/victory-native.png" width="200px" height="400px" title="victory-native chart">
